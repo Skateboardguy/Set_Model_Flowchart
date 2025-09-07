@@ -11,6 +11,6 @@ C --> D["LassoCV (cv=5)<br/>"]
 D --> E[篩選保留後的重要特徵] 
 E --> F["RidgeCV (cv=5, alphas=logspace(-3,3,100))<br/>建立最終模型"] 
 F --> G[解釋係數<br/>重要因子排名]
-<img width="415" height="200" alt="image" src="https://github.com/user-attachments/assets/9b8aac1f-953e-4097-b285-9d8cca74a83f" />
+
 
 
